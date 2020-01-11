@@ -1,7 +1,7 @@
 <?php
 
 /*
-	Author		: AHMET BERK BAŞARAN - 369 - https://www.github.com/007basaran/
+	Author		: AHMET BERK BAŞARAN - TESLA 369 - https://www.github.com/007basaran/
 	Country		: TÜRKİYE
 	Version		: 1.0
 */
@@ -197,25 +197,7 @@ function abb_vd($abbip=NULL,$tekilsecim=NULL)
 	*/
 
 	// Mevcut php bilginiz doğrultusunda kodlara bakarak, geliştirebilir ya da diğer özellikleri bulabilirsiniz.
+
 	// İyi çalışmalar.
 
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
