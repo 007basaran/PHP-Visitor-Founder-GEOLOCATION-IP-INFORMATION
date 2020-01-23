@@ -1,7 +1,7 @@
 <?php
 
 /*
-	Author		: AHMET BERK BAŞARAN - TESLA 369 - https://www.github.com/007basaran/
+	Author		: AHMET BERK BAŞARAN - https://www.github.com/007basaran/
 	Country		: TÜRKİYE
 	Version		: 1.0
 */
